@@ -1,5 +1,5 @@
-This is my own version control system. Built to learn internal system of git and cli in node js
+This is my own version control system. Built to learn the internal system of git and CLI in node js
+- Run this command to run the project locally
 ```
-- Run this command to run project locally
 npm link
 ```
